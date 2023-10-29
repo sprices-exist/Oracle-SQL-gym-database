@@ -13,7 +13,7 @@ SELECT COUNT(*) FROM MEMBERS;
 
 Count  =  <mark>154446</mark>
 
-###  Body Measurements table
+### Body Measurements table
 
 SELECT COUNT(*) FROM BODYMEASUREMENTS;
 
