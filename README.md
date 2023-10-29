@@ -1,5 +1,6 @@
-# Oracle-SQL-gym-database
-Creation and benchmarking for a gym membership database, populated with realistic artificial data generated using the faker library.  Complex queries involving multiple joins, sub-queries, and groupings.
+# Oracle SQL gym database
+
+## The project involves insertion of realistic artificial data, and benchmarking for large transactions.
 
 ### Figure 1: Entity-Relationship diagram
 ![image](https://github.com/sprices-exist/Oracle-SQL-gym-database/assets/68065642/03810bcc-cf6e-4bc0-8a96-43119d755790)
